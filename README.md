@@ -18,6 +18,7 @@ canção de Céline Dion .
 * Sávio Andrade Roquette
 * Thiago Henrique Pinto da Silva
 * Vinicio Machado Muniz de Morais
+* Fábio Furlan Cavalcante
 
 ## Orientador
 
