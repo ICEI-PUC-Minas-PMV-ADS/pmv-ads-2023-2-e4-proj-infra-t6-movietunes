@@ -18,7 +18,7 @@ Gerenciamento do Projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PMV-ADS/
 
 O projeto utiliza um design de fluxo de trabalho baseado no lucidchart, mostrado na Figura a seguir:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/MovieTunes/blob/main/docs/img/versao.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/versao.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
