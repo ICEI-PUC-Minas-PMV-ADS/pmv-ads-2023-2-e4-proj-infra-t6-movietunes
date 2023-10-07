@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6520b1650c62e5eeab1af1cb"
+  },
+  "Nome": "Josyane",
+  "Gênero Favorito": "Terror",
+  "NickName": "JosyEvil"
+},
+{
+  "_id": {
+    "$oid": "6520b2010c62e5eeab1af1cc"
+  },
+  "Nome": "Nathalia",
+  "Gênero Favorito": "Romance",
+  "NickName": "NathyLove"
+},
+{
+  "_id": {
+    "$oid": "6520b23b0c62e5eeab1af1cd"
+  },
+  "Nome": "Vinicios",
+  "Gênero Favorito": "Ficcção Científica",
+  "NickName": "Vini_Space"
+},
+{
+  "_id": {
+    "$oid": "6520b2750c62e5eeab1af1ce"
+  },
+  "Nome": "Thiago",
+  "Gênero Favorito": "Fantasia",
+  "NickName": "ThiOgro"
+},
+{
+  "_id": {
+    "$oid": "6520b2cd0c62e5eeab1af1cf"
+  },
+  "Nome": "Rafael",
+  "Gênero Favorito": "Ação",
+  "NickName": "RafaMission"
+},
+{
+  "_id": {
+    "$oid": "6520b3240c62e5eeab1af1d0"
+  },
+  "Nome": "Sávio",
+  "Gênero Favorito": "Comedia",
+  "NickName": "SavioHAHAHA"
+}]
