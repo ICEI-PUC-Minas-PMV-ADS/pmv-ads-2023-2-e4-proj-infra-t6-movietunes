@@ -17,7 +17,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
@@ -28,20 +28,19 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizada para banco de dados foi a tecnologia MongoDB. Para desenvolvermos a aplicação usaremos a linguagem C# com o Enty Framework, e também o Visual Studio 2022 para desenvolvimento da aplicação, para gerenciar os códigos e a documentação usamos o GitHub.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+GitHub  - Um gerenciador de código aberto e gratuito para programadores
+
+Mongo DB-  Um famoso Banco de dados orientados a documentos, composto por registro que não tem uma definição formal de suas estrutura. Na qual existem conceitos de coluna chaves estrangeiras e algumas outras formalidades que bancos de dados relacionais tem.
+
+C Sharp -  Uma linguagem destinada a programação. Considerada uma linguagem multiparadigmas desenvolvida pela Microsoft
+
+Visual Studio 2022- Lugar onde programadores codam uma aplicação sendo possível a instalação de diversos plug para facilitar no processo
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+> Ainda não foi pauta no grupo mas estamos pensando em escolher o próprio GitHub para fazer a hospedagem do projeto
 
 ## Qualidade de Software
 
