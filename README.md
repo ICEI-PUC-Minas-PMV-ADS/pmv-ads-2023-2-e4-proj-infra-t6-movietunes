@@ -4,10 +4,12 @@
 
 ` Projeto: Desenvolvimento de uma Aplicação Distribuída `
 
-`  Quarto Semestre`
+`  Quarto Semestre`![LOGO](\\\Docs\img\LOGO.png)
 
 Sistema de integração Web e Mobile com o Objetivo de mostrar filmes e sua trilha sonora. Um exemplo é o Filme Titanic, que terá exposto a música My Heart Will Go On
 canção de Céline Dion . 
+
+
 
 
 ## Integrantes
