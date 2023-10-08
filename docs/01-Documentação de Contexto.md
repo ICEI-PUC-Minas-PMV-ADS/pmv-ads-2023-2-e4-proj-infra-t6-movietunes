@@ -1,13 +1,6 @@
 # Introdução
 
- Desde a primeira exibição de cinema, em 1895, pelos irmãos Lumière, até o momento atual a trilha sonora se torna indispensável. Justamente por trazer intensidade para as cenas, criar memórias afetivas e assim advertir o telespectador. “A nossa percepções sonoras sempre vem acompanhada de uma percepções visuais e de outras percepções que são fornecidas pelos nossos sentidos”, pontua o professor Fábio Cintra, do Departamento de Música da Escola de Comunicações e Artes da USP.
- Sendo assim, a trilha sonora integra com a própria narrativa cinematográfica. Isto é, se você mudar a trilha sonora de um filme, você basicamente está mudando o filme. Uma trilha sonora pode reiterar emoções, ela tem o poder de transcender o quadro do audiovisual; pode falar de coisas que não estão lá, ela pode negar, inclusive, o que a gente está vendo na tela e isso vai criando sentidos diversos. Deste modo, é possível afirmar que as trilhas sonoras compõem as emoções e as memórias enquanto assistimos a um filme. 
- Diante de tais análises, torna-se necessário uma ferramenta que auxilie os amantes de filmes a encontrar as trilhas sonoras dos filmes com mais facilidade.
-
- 
-## Problema 
-
-Sabe quando você está ouvindo aquela música boa em um filme, mas não sabe o nome da música, nem quem está cantando, ou quando está passando aquele filme na TV e você quer comentar sobre o mesmo e ver o que outras pessoas pensam sobre ele.  Esse tem sido o problema de muitas pessoas nos dias atuais, pessoas querem saber os nomes das músicas, mas não conseguem localizar em suas plataformas de streaming. Esse problema está prestes a ser sanado pelo aplicativo MovieTune que ao menos sabendo o filme que está passando você terá acesso a todas as músicas da trilha sonora daquele filme.
+Cinema, um lugar que as pessoas vão para se entreter, juntamente com a família, namorado e até mesmo os amigos. Uma sala que trás muitas sensações, um sofá confortável e uma tela muito maior do que as que costumamos ter em casa. Sempre que vamos assistir um longa-metragem absorvemos diversas coisas do filme, entre elas a trilha sonora,  os atores escalados para a trama, e até mesmo utensílios utilizados no filme, embora não seja fácil encontrar depois que saímos da sala. Um exemplo antagônico disso aconteceu esse ano com o filme  “ Barbie The Movie”  que foi considerado o filme do ano (2023), diferente dos outros começou a ser promovido através da sua trilha sonora que contava com diversos artistas grandes da atualidade como Dua Lipa, Billie Eilish e Nicki Minaj,  trazendo uma grande  visibilidade para trilha sonora antes mesmo do seu lançamento oficial. Na maioria das vezes, uma grande divulgação da trilha não acontece, fazendo com que as musicas sejam restritas somente ao telão do cinema, dificultando a localização das faixas. Essa problemática esta preste a ser sanada pelo grupo MovieTunes  e seu aplicativo. 
 
 ## Objetivos
 
