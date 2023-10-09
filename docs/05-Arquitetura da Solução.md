@@ -4,7 +4,7 @@
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+![Arquitetura da Solução](C:\dev\Projetos\Projeto-raiz-movie-tunes\pmv-ads-2023-2-e4-proj-infra-t6-movietunes\docs\img\arquitetura.png)
 
 ## Diagrama de Classes
 
