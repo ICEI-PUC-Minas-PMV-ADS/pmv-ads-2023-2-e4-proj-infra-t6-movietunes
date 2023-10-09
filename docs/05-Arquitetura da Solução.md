@@ -26,6 +26,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
+Arquivo BD:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/src/bd.py
+
 ## Tecnologias Utilizadas
 
 As tecnologias utilizada para banco de dados foi a tecnologia MongoDB. Para desenvolvermos a aplicação usaremos a linguagem C# com o Enty Framework, e também o Visual Studio 2022 para desenvolvimento da aplicação, para gerenciar os códigos e a documentação usamos o GitHub.
