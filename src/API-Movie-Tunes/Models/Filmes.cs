@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace API_Movie_Tunes.Models
 {
     [Table("Filmes")]
-    public class Filmes
+    public class Filmes : linksHATEOS
     {
         [Key]
         public int Id { get; set; }
