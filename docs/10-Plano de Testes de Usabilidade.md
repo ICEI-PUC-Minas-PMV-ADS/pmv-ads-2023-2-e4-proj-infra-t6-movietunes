@@ -1,11 +1,26 @@
-# Plano de Testes de Usabilidade
+# Plano de Testes de Usabilidade Movie Tunes:
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Este plano tem como propósito a avaliação da eficácia da interface do usuário da aplicação Movie Tunes em dispositivos móveis e Web. Composto por diversos casos de teste, será executado tanto durante a implementação parcial quanto total do aplicativo. Utilizando o método de Medição e Avaliação, será possível aferir a facilidade de realização de ações, efetividade das tarefas, quantidade de erros ocorridos em cada ação, tempo gasto para finalização das tarefas e se a aparência da interface do sistema é adequada.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+Ao final, será feito um comparativo dos resultados de cada usuário participante do teste, e sera analisado pela equipe quais mudanças serão necessárias para tornar experiência do usuário mais agradável e efetiva.
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+## Método Utilizado : Medição e Avaliação
+
+- Facilidade em realizar a ação;
+- Efetividade da tarefa realizada;
+- Quantidade de erros ocorridos em cada ação;
+- Tempo necessário para conclusão da tarefa;
+- Outros fatores relevantes para a avaliação da interface do sistema.
+
+Para cada tarefa e será possível medir:
+
+| Tarefa  | Critério de Êxito                                | Avaliação                                                         |
+|---------|--------------------------------------------------|------------------------------------------------------------------------------
+| 1 | Realizar o cadastro para logar, visualizar campos para preenchimento. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema.||
+2 | Concluir o cadastro, seguido pela notificação de sucesso e direcionamento do sistema para a tela de login. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. || 
+3 | Concluir o login no sistema, seguindo o direcionamento do sistema para tela com a lista de filmes. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa. Avaliação da interface do sistema. || 
+4 | O sistema será direcionado para a página inicial com os filmes disponiveis no sistema. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. || 
+5 |Realizando busca de filmes através do campo pesquisar. | Facilidade em realizar a ação; Efetividade da tarefa realizada;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. || 
+6 | Visualizando o filme escolhido, clicar no filme e ser redirecionado para a tela onde haverá a trilha sonora e avaliações. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. || 
+7 |Contribuindo com a avaliação de até 5 estrelas do filme e trilha sonora . | Facilidade em realizar a ação; Efetividade da tarefa realizada;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. || 
+8 |Retornar para o menu principal, seguindo o direcionamento do sistema para tela principal de filmes. | Facilidade em realizar a ação; Efetividade da tarefa realizada;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. ||

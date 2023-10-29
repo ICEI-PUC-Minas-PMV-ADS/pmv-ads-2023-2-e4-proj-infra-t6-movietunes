@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\API-Movie-Tunes",
+    "\\src\\API-Movie-Tunes\\Controllers",
+    "\\src\\API-Movie-Tunes\\Models",
+    "\\src\\bancoDeDados"
   ],
-  "SelectedNode": "\\C:\\Users\\furla\\Source\\Repos\\pmv-ads-2023-2-e4-proj-infra-t6-movietunes",
+  "SelectedNode": "\\src\\API-Movie-Tunes\\Controllers\\FilmesController.cs",
   "PreviewInSolutionExplorer": false
 }
