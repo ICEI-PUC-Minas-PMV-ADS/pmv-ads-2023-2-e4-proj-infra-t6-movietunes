@@ -6,7 +6,7 @@
 
 `  Quarto Semestre`
 
-![LOGO](Docs\img\LOGO.png)
+![LOGO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/LOGO.png)
 
 Sistema de integração Web e Mobile com o Objetivo de mostrar filmes e sua trilha sonora. Um exemplo é o Filme Titanic, que terá exposto a música My Heart Will Go On
 canção de Céline Dion . 
