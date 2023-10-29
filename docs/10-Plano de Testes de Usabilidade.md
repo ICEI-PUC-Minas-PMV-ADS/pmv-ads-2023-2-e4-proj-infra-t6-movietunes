@@ -4,7 +4,7 @@ Este plano tem como propósito a avaliação da eficácia da interface do usuár
 
 Ao final, será feito um comparativo dos resultados de cada usuário participante do teste, e sera analisado pela equipe quais mudanças serão necessárias para tornar experiência do usuário mais agradável e efetiva.
 
-###Os requisitos para realização dos testes de software são:
+### Os requisitos para realização dos testes de software são:
 
 - Url Movie Tunes publicado na Internet para acesso Web
 - Aplicativo Movie Tunes instalado para acesso mobile
