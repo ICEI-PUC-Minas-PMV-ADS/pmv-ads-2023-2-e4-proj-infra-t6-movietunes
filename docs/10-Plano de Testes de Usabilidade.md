@@ -51,9 +51,9 @@ Para cada tarefa e será possível medir:
 | Objetivo do Teste 	| Verificar se o usuário  consegue localizar o filme pesquisado. |
 | Passos 	| - Acessar a aplicação <br> - Clicar em “Login” no menu <br> - Realizar o login <br> - Digitar o nome do filme em “pesquisar”<br> - Clicar em “Pesquisar”<br> - Clicar no “Filme” |
 |Critério de Êxito | - O usuário conseguiu visualizar o filme através da pesquisa. |
-| **Caso de Teste** 	| **CT-08 - Avaliando Filme e Trilha Sonora** 	|
-|	Requisito Associado 	| RF-008 - A aplicação deve permitir que o usuário visualize o Filme e a Trilha Sonora e faça uma avaliação de até 5 estrelas. |
-| Objetivo do Teste 	| Verificar se o usuário consegue visualizar o campo de avaliações e fazer avaliação. |
+| **Caso de Teste** 	| **CT-08 - Avaliando Filme e Trilha Sonora e adicionar comentários** 	|
+|	Requisito Associado 	| RF-008 - A aplicação deve permitir que o usuário visualize o Filme e a Trilha Sonora e faça uma avaliação de até 5 estrelas e também comente sobre a trilha sonora. |
+| Objetivo do Teste 	| Verificar se o usuário consegue visualizar o campo de avaliações e fazer avaliação. Verificar se o usuário consegue realizar o comentário. |
 | Passos 	| - Acessar a aplicação <br> - Clicar em “Login” no menu <br> - Realizar o login <br> - Clicar no “Filme” através do menu principal ou pesquisa <br> - Visualizar campo avalições <br> - Realizar avaliação |
 |Critério de Êxito | - O usuário conseguiu fazer a avaliação corretamente. |
 | **Caso de Teste** 	| **CT-09 - Retornar ao Menu Principal** 	|
