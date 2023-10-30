@@ -54,8 +54,8 @@ Para cada tarefa e será possível medir:
 | **Caso de Teste** 	| **CT-08 - Avaliando Filme e Trilha Sonora e adicionar comentários** 	|
 |	Requisito Associado 	| RF-008 - A aplicação deve permitir que o usuário visualize o Filme e a Trilha Sonora e faça uma avaliação de até 5 estrelas e também comente sobre a trilha sonora. |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar o campo de avaliações e fazer avaliação. Verificar se o usuário consegue realizar o comentário. |
-| Passos 	| - Acessar a aplicação <br> - Clicar em “Login” no menu <br> - Realizar o login <br> - Clicar no “Filme” através do menu principal ou pesquisa <br> - Visualizar campo avalições <br> - Realizar avaliação |
-|Critério de Êxito | - O usuário conseguiu fazer a avaliação corretamente. |
+| Passos 	| - Acessar a aplicação <br> - Clicar em “Login” no menu <br> - Realizar o login <br> - Clicar no “Filme” através do menu principal ou pesquisa <br> - Visualizar campo avalições <br> - Realizar avaliação <br> - Realizar comentário|
+|Critério de Êxito | - O usuário conseguiu fazer a avaliação e comentário corretamente. |
 | **Caso de Teste** 	| **CT-09 - Retornar ao Menu Principal** 	|
 |	Requisito Associado 	| RF-009 - A aplicação deve permitir que o usuário volte a página principal. |
 | Objetivo do Teste 	|Verificar se o usuário retornou a página principal. |
