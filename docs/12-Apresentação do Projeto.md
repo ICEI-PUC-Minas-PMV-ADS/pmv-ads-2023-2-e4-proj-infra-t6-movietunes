@@ -49,3 +49,6 @@ Josyane : Realizou em "Projeto de interface": Diagrama de Fluxo e Wireframe do A
 
 ## Conjunto de Slides (Estrutura)
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes/blob/main/docs/img/Slide%20MovieTunes%20feito%20pela%20Nathalia.pptx
+
+
