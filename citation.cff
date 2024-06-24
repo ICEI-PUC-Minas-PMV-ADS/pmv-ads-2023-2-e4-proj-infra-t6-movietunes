@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: Filmes e Trilhas Sonoras
+authors:
+  - family-names: Luiza Cupertino de Oliveira
+    given-names:  Josyane
+  - family-names: Liberato de Abreu
+    given-names: Nathália 
+  - family-names: Pacheco Leite
+    given-names: Rafael 
+  - family-names: Andrade Roquette
+    given-names: Sávio 
+  - family-names: Henrique Pinto da Silva
+    given-names: Thiago 
+  - family-names: Machado Muniz de Morais
+    given-names: Vinicio 
+  - family-names: Furlan Cavalcante
+    given-names: Fábio 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Alves de Oliveira
+    given-names: Pedro 
+keywords:
+  - Filmes
+  - Trilha sonora
+  - Música
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t6-movietunes
+version: 1.0.0
+date-released: 2024-23-06
